@@ -1,6 +1,6 @@
 # Project Title
 
-This is the Titanic data set.
+This is the Titanic dataset.
 I'm using this information as a exercise for pivot tables and chart creations
 
 ## Built With
