@@ -9,4 +9,4 @@ I'm using this information as a exercise for pivot tables and chart creations
 
 ## Authors
 
-* **Cambron Deatherage** - *Initial work* - [ctd1077](https://github.com/ctd1077)
+* **ctd1077** - *Initial work* - [ctd1077](https://github.com/ctd1077)
